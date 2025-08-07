@@ -111,5 +111,5 @@ Happy coding and building multi-ai-agent-system! 🎉💚
 
 ## 🖼 Demo
 
-![Demo](https://raw.githubusercontent.com/Sujalkumar123/Agent_TripPlanar/master/assets/demo.gif)
+![Demo](https://raw.githubusercontent.com/Sujalkumar123/Agent_TripPlanar/master/assests/demo.gif)
 
