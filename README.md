@@ -111,4 +111,4 @@ Happy coding and building multi-ai-agent-system! 🎉💚
 
 ## 🖼 Demo
 
-![Demo](assets/demo.gif)
+![Demo](assests/demo.gif)
